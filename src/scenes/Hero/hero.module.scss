@@ -1,0 +1,100 @@
+@import "../../css/media-queries";
+
+.hero {
+    position: relative;
+    border-top: 1rem solid var(--red);
+    border-right: 1rem solid var(--red);
+    border-left: 1rem solid var(--red);
+    justify-content: space-between;
+
+    & * {
+        z-index: 2;
+    }
+
+    .buttonContainer {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-top: 2rem;
+        background-color: var(--cream);
+        font-family: "Montserrat", sans-serif;
+        text-align: center;
+
+        button {
+            margin-bottom: 2rem;
+
+            @include phone {
+                margin-bottom: 1rem;
+            }
+        }
+
+        a {
+            color: var(--red);
+
+            @include phone {
+                font-size: 0.75rem;
+            }
+        }
+    }
+
+    .festivalLogo {
+        display: flex;
+        justify-content: center;
+        width: 15%;
+        padding-bottom: 2rem;
+        background-color: var(--cream);
+
+        @include phone {
+            width: 60%;
+        }
+
+        a {
+            display: flex;
+            justify-content: center;
+            width: 100%;
+        }
+
+        img {
+            max-width: 100%;
+
+            @include phone {
+                width: 100%;
+            }
+        }
+    }
+
+    .line {
+        position: absolute;
+        height: calc(100% - 12rem);
+        width: 2px;
+        background-color: var(--red);
+        z-index: 1;
+
+        @include phone {
+            height: calc(100% - 4rem);
+        }
+    }
+
+    .main {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        max-width: 100%;
+        padding: 2rem 0;
+        background-color: var(--cream);
+
+        .creatorSummitLogo {
+            margin-bottom: 1rem;
+
+            img {
+                max-width: 100%;
+            }
+        }
+
+        .presentedBy {
+            img {
+                max-width: 100%;
+            }
+        }
+    }
+}

@@ -1,0 +1,57 @@
+@import "../../css/media-queries";
+
+.faq {
+    text-align: center;
+
+    .header {
+        width: 80%;
+        margin-bottom: 4rem;
+        color: var(--red);
+        font-family: "Bodoni Moda", serif;
+        font-size: 3rem;
+        font-weight: 700;
+
+        @include phone {
+            width: 100%;
+        }
+    }
+
+    .items {
+        width: 80%;
+        margin-bottom: 4rem;
+        display: flex;
+        flex-direction: column;
+        font-family: "Montserrat", sans-serif;
+
+        @include phone {
+            width: 100%;
+        }
+
+        .item {
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+
+            &:not(:last-child) {
+                margin-bottom: 4rem;
+            }
+
+            .answer {
+                color: var(--black);
+                font-weight: 400;
+                font-size: 1.25rem;
+                line-height: 1.75rem;
+            }
+
+            .question {
+                margin-bottom: 1rem;
+                font-size: 2.75rem;
+                font-weight: 300;
+
+                @include phone {
+                    font-size: 2rem;
+                }
+            }
+        }
+    }
+}

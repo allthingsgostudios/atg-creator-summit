@@ -1,0 +1,61 @@
+.marquee {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 2rem 0;
+    background-color: var(--red);
+    color: var(--cream);
+    font-family: "Montsterrat", sans-serif;
+    overflow: hidden;
+    white-space: nowrap;
+
+    .block {
+        display: inline-block;
+        margin-right: 0.5rem;
+
+        &--first {
+            margin: 0 0.75rem;
+            animation: marquee 20s linear infinite;
+        }
+
+        &--second {
+            margin: 0 0.75rem;
+            animation: marquee2 20s linear infinite;
+            animation-delay: 10s;
+        }
+
+        .text {
+            position: relative;
+            font-weight: 800;
+            color: var(--cream);
+            font-size: 4rem;
+            font-weight: 700;
+            text-align: center;
+            z-index: 1000 !important;
+            -moz-text-stroke-color: var(--cream);
+            -webkit-text-stroke-color: var(--cream);
+            -moz-text-stroke-width: 0.125rem;
+            -webkit-text-stroke-width: 0.125rem;
+            -moz-text-fill-color: transparent;
+            -webkit-text-fill-color: transparent;
+        }
+    }
+}
+
+@keyframes marquee {
+    0% {
+        transform: translateX(100%);
+    }
+    100% {
+        transform: translateX(-100%);
+    }
+}
+
+@keyframes marquee2 {
+    from {
+        transform: translateX(0%);
+    }
+    to {
+        transform: translateX(-200%);
+    }
+}

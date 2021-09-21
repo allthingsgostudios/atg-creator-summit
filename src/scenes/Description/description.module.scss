@@ -1,0 +1,15 @@
+@import "../../css/media-queries";
+
+.description {
+    .text {
+        width: 80%;
+        color: var(--red);
+        font-family: "Bodoni Moda", serif;
+        font-size: 3rem;
+        text-align: center;
+
+        @include phone {
+            width: 100%;
+        }
+    }
+}
