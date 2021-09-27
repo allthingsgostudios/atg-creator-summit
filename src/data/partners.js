@@ -55,4 +55,9 @@ export const partnersSecondRow = [
         link: "https://www.womeninmusic.org/",
         name: "Women In Music",
     },
+    {
+        image: "https://allthingsgofestival.com/wp-content/uploads/2021/09/embassy-australia.png",
+        link: "https://usa.embassy.gov.au/",
+        name: "Embassy of Australia",
+    },
 ];
