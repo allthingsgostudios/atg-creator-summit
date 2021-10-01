@@ -58,7 +58,7 @@ export const panelists = {
             },
             name: "Denise Karkos",
             photo: "https://allthingsgofestival.com/wp-content/uploads/2021/09/Denise-Karkos-headshot-Donita-Petite.jpg",
-            subtitle: "SiriusXM",
+            subtitle: "SiriusXM and Pandora",
             title: "Chief Marketing Officer, SiriusXM",
         },
         {
@@ -149,6 +149,21 @@ export const panelists = {
             photo: "https://allthingsgofestival.com/wp-content/uploads/2021/09/Jeanine-McLean.jpeg",
             subtitle: "MBK Entertainment",
             title: "President/Managing Partner at MBK Entertainment Inc",
+        },
+        {
+            bio: [
+                "New York based and Long Island grown, Jennifer Leiweke’s foray into the music industry formally began in the early 2000s in live music and event production at AEG in Los Angeles. A return to New York in 2010 brought the opportunity to start and build a career in artist relations at Pandora. Throughout her decade+ at Pandora and now parent company, SiriusXM, Jen’s role has grown right along with the music industry. Evolving, shaping and leading development of the artist relations division at Pandora, Jen has uniquely positioned herself in a role that is focused on crafting original and thoughtful ways to broaden an artist’s audience and deepen connections to their fans.  Cultivating partnership opportunities for artists the likes of John Legend, Gwen Stefani, Ed Sheeran, Lizzo, DJ Khaled, The Chainsmokers and well beyond, Jen explains “we sit at the intersection of music, technology, artist marketing and brand partnerships and have had to remain current in an ever-changing industry, needless to say it’s been an exciting and wild ride.”",
+                "In Leiweke’s current role as Senior Director on the Talent & Industry Relations team across Pandora and SiriusXM, Jen is focused on Artist and Brand Partnerships, creating opportunity and innovation for partners across the music industry while supporting Pandora and SiriusXM Sales and Consumer Marketing initiatives. The Covid19 disruption to the world and to the music industry has tasked her team with forging new paths, revolutionizing ways to support artist and brand partners and bringing dynamic, new and exciting experiences to audiences.  To date, Jen and the Pandora SXM team have created 50 plus unique and first to market virtual programs, reaching a massive and engaged audience as it continues to grow.",
+            ],
+            links: {
+                instagram: "https://www.instagram.com/jleiweke",
+                twitter: null,
+                website: null,
+            },
+            name: "Jennifer Leiweke",
+            photo: "https://allthingsgofestival.com/wp-content/uploads/2021/10/jennifer-leiweke.jpeg",
+            subtitle: "SiriusXM and Pandora",
+            title: "Senior Director, Industry & Talent Relations, Brand Partnerships",
         },
     ],
 };
