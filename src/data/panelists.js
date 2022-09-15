@@ -16,22 +16,6 @@ export const panelists = {
         },
         {
             bio: [
-                "Blu DeTiger is a multi-instrumentalist, singer, songwriter, producer, DJ, performer, bass virtuoso, and so much more.",
-                "Born and raised in New York City, she’s been slaying on the bass guitar since she was 7 years old. Not even legally old enough to be allowed in clubs, Blu has been a staple in the New York club, fashion, and creative scenes since she started DJing at the age of 17. As of 2020, Blu’s been a touring member for multiple artists including Caroline Polachek, Fletcher, The Knocks and more. She’s DJ’d internationally and walked in Kid Super’s NYFW show. Her single “Tangerine” distinguished her from the rest with her art pop funky flair.",
-                "Blu soared to new heights in 2020.  She not only gained over 1M followers on TikTok, but her song “Figure It Out” has gone viral in 31 countries including globally and the US. What’s next for Blu?  With an EP due out early 2021 there will be plenty of music and content to feed her ever growing fanbase",
-            ],
-            links: {
-                instagram: "https://www.instagram.com/bludetiger/",
-                twitter: "https://twitter.com/bludetiger",
-                website: "https://www.bludetiger.com/",
-            },
-            name: "Blu DeTiger",
-            photo: "https://allthingsgofestival.com/wp-content/uploads/2021/09/157726376_154990049779480_2622394932342558202_n.jpg",
-            subtitle: "Artist",
-            title: "Artist",
-        },
-        {
-            bio: [
                 "Puja Patel is the editor of Pitchfork, a position she has held since October 2018. Patel has previously served as the editor of SPIN, the culture editor of Deadspin, and a columnist for the Village Voice and MTV. Her writing has appeared in Rolling Stone, Washington Post, VICE and FADER. Patel is a founding board member of Building Beats, a non-profit organization that provides music education and development skills to underserved youth across New York City.",
             ],
             links: {
@@ -94,20 +78,6 @@ export const panelists = {
         },
         {
             bio: [
-                "Domo is a multi-disciplinary creative focused on Black Music + Culture through DJing, music programing, story telling, and various other creative exercises. Raised between NE DC + PG County, MD her work is strongly influenced by her DMV upbringing; driving her passion to uplift Black US regional music and emerging/ independent artists across the country + the diaspora. She continue's this work in her current role w/ Spotify as Music Editor for Frequency, Spotify's dedicated space to amplify Black Creatives across Music + Podcast.",
-            ],
-            links: {
-                instagram: "https://www.instagram.com/djxdomo/",
-                twitter: "https://twitter.com/djxdomo",
-                website: "https://www.domo.world",
-            },
-            name: "Domo",
-            photo: "https://allthingsgofestival.com/wp-content/uploads/2021/09/Domo-Domo-Wells.jpg",
-            subtitle: "DJ",
-            title: "DJ, Black Music + Culture Editor",
-        },
-        {
-            bio: [
                 `As VP of A&R Admin, Operations + Production for Artist Partner Group, Nikisha Bailey provides an invaluable creative perspective to the facilitation of A&R Operations for some of the world’s most recognizable artists, producers and songwriters.`,
                 "Extending her influence throughout music and culture, she also serves as Secretary for The Recording Academy’s New York Chapter and is an Ambassador for the Black Music Collective (BMC).  Nikisha owns one of Philadelphia's renowned coffee brands and community space; Win Win Coffee Bar and serves as Co Chair on Women in Music's Diversity and Inclusion Council. No matter what she does, the executive, entrepreneur, people manager, and philanthropist builds on her lifelong commitment to music, first and foremost. Nikisha was recently a recipient of Urban SkinRX’s Community Changemaker Award, listed on Forbes Next 1000 list and slated as a Billboard Power Player in 2020 and 2021.",
                 `“I try to understand artists on a musical level before anything else,” she says. “That’s how you build lasting trust—by showing a real love and appreciation for music, because it brings people together. I want that love for music to be my signature in everything I’m working on.” The St. Louis native went from playing bass and tuba throughout high school to achieving a Bachelor of Arts in Audio Engineering from Webster University. She kicked off her career as an intern at Atlantic before eventually becoming an A&R Admin Assistant in 2011. She became A&R Admin Manager for Def Jam Recordings during 2015 and worked on chart-topping multi platinum releases for the likes of YG, Jhene Aiko and Lil Durk, acting as a label liaison for producers, studios, engineers, and musicians. 2018 saw her return to Atlantic in the role of Head of A&R Admin, Artist Partners. Since rejoining the company, she has worked on key records for talent such as Kehlani, Lil Skies, Youngboy and many others.`,
@@ -138,7 +108,7 @@ export const panelists = {
         },
         {
             bio: [
-                "The business head of the management and production company powerhouse MBK Entertainment that has discovered, developed or nurtured a bevy of super talents ie Alicia Keys, Tiara Thomas, Tyrese, Keyshia Cole, Elle Varner and the current powerhouse HER along with newcomers Tone Stith, Maeta, Abigail Furr, Lonr and Jourdan Cox. Jeanine is the brand strategist that connects the dots between the creative vision and the marketability and profitable focus of this business of music. With an extensive background that ranges from touring with her own international touring company to relationships with brands and agency’s and an intuitive edge she always gets the deal done.",
+                "As part of the powerhouse management team for MBK Entertainment Inc for 2 decades,  Jeanine has garnered a reputation for being a hard- nosed business woman but with a nurturing spirit. Taking an artist from obscurity to fame is no small task and Jeanine is an integral part of the team that has created lightning in a bottle more than a few times. First with Alicia Keys whom she represented along with Jeff Robinson for 14 years+ and in that time Alicia has sold over 200 million records, won 14 Grammy awards, had sold out tours around the world. Elle Varner who was discovered on YouTube by the MBK team was signed to MBK/RCA right after graduating from NYU and she went on to become a Grammy Award nominated artist. The most recent and by far the most gratifying artist to be developed and managed by the MBK Entertainment team is the artist H.E.R. who has been under the MBK umbrella in development since she was 12 years old. Currently H.E.R. has over 1billion streams, has garnered 4 Grammy Awards, an Oscar, multiple BET, NAACP, MTV Video awards, sold out her own domestic and international tours. Other successes are the HER online series titled “Girls with Guitars” whose guests have included Melissa Etheridge, Tori Kelly, Alessia Cara, Chloe x Halle, Sheryl Crow, Willow Smith, and Orinathi just to name a few. The series has brought a platform for female guitar players to get together and talk music and jam out for the delighted fans and the series is now under contract to IMAX. Jeanine is especially proud of being an integral part in creating the Lights On Festival with HER and the team bringing the idea to full fruition both creatively and securing much needed sponsor partnerships to make the festival a success.  Outside of corporate and entertainment business endeavors, philanthropy is a strong passion that is growing stronger every day. During the peak COVID 19 months she visited and went food shopping for her elderly neighbors on a weekly basis, she has served on the planning committee for the NY based charity Determined to Educate which raises funds for college scholarships and social services for teen girls and is currently on the board for Bring The Noise, created by the artist HER, whose focus is bringing instruments and music programs to students in impoverished school districts.  The role of mentor rounds out Jeanine’s aura and she has given tutelage to numerous young men and women from all backgrounds allowing them the opportunity to shadow her in the office or on tour and get first hand knowledge of the entertainment industry and most recently she has joined on as a mentor for She Is The Music Foundation that was created by Alicia Keys, Jody Gerson and other female music execs. Grammy U mentor, FemmeItForward, Power2Inspire and the Berklee School of Music Intl. This year Jeanine was voted in as Board Member of the Recording Academy, Billboards 2021 R&B/Hip Hop Power Players List and had a headline feature In Rolling Stone Magazine.",
             ],
             links: {
                 instagram: "https://www.instagram.com/jeaninemclean/",

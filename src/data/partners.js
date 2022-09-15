@@ -60,4 +60,14 @@ export const partnersSecondRow = [
         link: "https://usa.embassy.gov.au/",
         name: "Embassy of Australia",
     },
+    {
+        image: "https://allthingsgofestival.com/wp-content/uploads/2021/10/202-creates.jpeg",
+        link: "https://www.202creates.com/",
+        name: "202 Creates",
+    },
+    {
+        image: "https://allthingsgofestival.com/wp-content/uploads/2021/10/dc-film.png",
+        link: "https://entertainment.dc.gov/",
+        name: "DC Office of Cable Television, Film, Music and Entertainment",
+    },
 ];
